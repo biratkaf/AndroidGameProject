@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+C:\Users\sergio\source\repos\AndroidGameProject\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+3565572348.index
+1339383164.index
+1752819803.index

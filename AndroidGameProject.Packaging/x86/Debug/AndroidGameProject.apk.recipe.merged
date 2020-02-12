@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>C:\Users\sergio\source\repos\AndroidGameProject\x86\Debug\libAndroidGameProject.so;C:\Microsoft\AndroidNDK64\android-ndk-r16b\prebuilt\android-x86\gdbserver\gdbserver;C:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\x86\libandroid_support.a;C:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\x86\libc++_static.a;C:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\x86\libc++abi.a</SOLibPaths>
+  <AndroidLibPaths></AndroidLibPaths>
+  <OObjPaths>C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.NativeActivity\x86\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>x86</Platform>
+  <AndroidArchitecture>x86</AndroidArchitecture>
+</project>

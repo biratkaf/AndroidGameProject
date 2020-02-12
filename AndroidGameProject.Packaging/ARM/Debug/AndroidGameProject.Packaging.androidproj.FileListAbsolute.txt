@@ -1,0 +1,15 @@
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\AndroidGameProject.Packaging.androidprojAssemblyReference.cache
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\AndroidGameProject.apk.recipe
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\AndroidGameProject.apk.recipe.merged
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libAndroidGameProject.so
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\FileStringReplace.incremental
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\AndroidGameProject.apk
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\AndroidGameProject.lastsuccessfuldeploy
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\libs\armeabi-v7a\gdbserver
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libandroid_support.a
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libc++_static.a
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\libs\armeabi-v7a\libc++abi.a
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\res\values\strings.xml
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\AndroidManifest.xml
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\project.properties
+C:\Users\sergio\source\repos\AndroidGameProject\AndroidGameProject.Packaging\ARM\Debug\Package\build.xml

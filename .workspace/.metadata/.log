@@ -1,0 +1,36 @@
+!SESSION 2020-02-11 23:58:04.844 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-97a3eb00-70da-487f-b4c2-bb237fc2f8de
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\sergio\source\repos\AndroidGameProject\.workspace javapkgsrv-97a3eb00-70da-487f-b4c2-bb237fc2f8de
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-12 00:00:54.944
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-02-12 00:01:17.847 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-b024e6ba-69de-47dc-aa4e-dae6de03ee0a
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\sergio\source\repos\AndroidGameProject\.workspace javapkgsrv-b024e6ba-69de-47dc-aa4e-dae6de03ee0a
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-12 00:01:19.318
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-12 01:05:41.980
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-02-12 14:06:45.758 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-b1ed3caf-4b28-45ca-b656-4b5d8a016b08
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data C:\Users\sergio\source\repos\AndroidGameProject\.workspace javapkgsrv-b1ed3caf-4b28-45ca-b656-4b5d8a016b08
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-12 14:06:46.729
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-02-12 17:33:29.482
+!MESSAGE The workspace will exit with unsaved changes in this session.
